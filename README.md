@@ -1,2 +1,2 @@
 # Collins-Data-Science-Assignments
-Collins Data Science assignments
+The repository will contain the Microsoft project done by Collins Ouko for Data Science
